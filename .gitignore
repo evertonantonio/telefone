@@ -1,0 +1,22 @@
+# Arquivos de compilação e saída
+bin/
+target/
+*.class
+
+# Arquivos de configuração específicos do Eclipse
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
+
+# Arquivos de configuração de build de projetos Maven
+target/
+
+# Arquivos de configuração do sistema (pode variar dependendo das ferramentas e bibliotecas que você está usando)
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
