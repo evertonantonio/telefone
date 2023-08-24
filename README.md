@@ -1,11 +1,11 @@
 # Telefone :iphone:
 
-Projeto feito para treinar poo usando interface. Onde criei 3 interfaces: 
+Projeto feito para praticar Programação Orientada a Objetos (POO) usando interfaces. Nele, criei 3 interfaces: 
 
 
-- **AparelhoTelefonico** - Responsal por fazer as chamadas e encerrar.
-- **NavegadorInternet** - responsavbel por fazer o acesso a internet .
-- **ReprodutorMusical** - Responsavel por tocar musica e parar
+- **AparelhoTelefonico** - Responsável por fazer as chamadas e encerrar.
+- **NavegadorInternet** - Responsável por fazer o acesso à internet.
+- **ReprodutorMusical** - Responsável por tocar música e parar.
 
 ## Ferramentas utilizadas :gear:
 
